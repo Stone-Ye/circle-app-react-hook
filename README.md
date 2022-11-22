@@ -1,30 +1,39 @@
 # circle-app-react-hook
 
-Second hand trade app based on react
 
-## Available Scripts
 
-In the project directory, you can run:
+## 1、 Introduction
 
-### `npm start`
+### Second hand trade app based on react
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## 2、How to run 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 2.1  Pull the code to your local
 
-### `npm run build`
+```
+git clone https://github.com/Stone-Ye/circle-app-react-hook
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 2.2   install the dependences
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 2.3 Test in your local
+
+```
+npm run start
+```
+
+### 2.4 Deploy
+
+#### 2.4.1 build the project as  static file
+
+```
+npm run build
+```
+
+#### 2.4.2 deploy at the remote service 
