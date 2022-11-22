@@ -3,6 +3,7 @@
 .nuxt/
 dist/
 node_modules/
+build/
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template
 # Logs
